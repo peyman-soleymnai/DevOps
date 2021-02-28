@@ -307,7 +307,7 @@ switch (ENVIRONMENT)
 
 /*
  * --------------------------------------------------------------------
- * LOAD THE BOOTSTRAP FILE IN PHP_VERSION
+ * LOAD THE BOOTSTRAP FILE IN PHP_VERSION testing
  * --------------------------------------------------------------------
  *
  * And away we go...
