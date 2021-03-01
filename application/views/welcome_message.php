@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>Welcome in CodeIgniter</title>
 
 	<style type="text/css">
 
@@ -19,13 +19,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}
 
 	a {
-		color: #E13300;
+		color: #4F5155;
 		background-color: transparent;
 		font-weight: normal;
 	}
 
 	h1 {
-		color: #0003399;
+		color: #4F5155;
 		background-color: transparent;
 		border-bottom: 1px solid #D0D0D0;
 		font-size: 19px;
@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter!</h1>
+	<h1>Welcome in the  CodeIgniter!</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
